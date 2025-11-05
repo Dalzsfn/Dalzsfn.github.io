@@ -29,7 +29,7 @@ latest_posts:
 
 ## 👋 Hola, soy David Díaz
 
-Soy una persona interesada en la **computación** y todo lo que rodea a la **tecnología**.  
+Estudiante de ingeniería en Computación en la Escuela Politécnica Nacional. Soy una persona interesada en la **computación** y todo lo que rodea a la **tecnología**.  
 Me gusta aprender cómo funcionan los sistemas por dentro y explorar diferentes áreas del mundo digital.
 
 Actualmente me enfoco en aprender sobre **análisis de datos** y en mejorar mis habilidades en **Python**.  
